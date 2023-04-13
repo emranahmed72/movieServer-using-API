@@ -1,0 +1,3 @@
+[submodule "Movie-Server"]
+	path = Movie-Server
+	url = https://github.com/emranahmed72/Movie-Server
